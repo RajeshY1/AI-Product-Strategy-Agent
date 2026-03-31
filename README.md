@@ -17,8 +17,10 @@ StrategistAI is an automated multi-agent workflow designed to transform a raw st
 - **Research API:** Perplexity AI (for live web-searching)
 - **Deployment:** Self-hosted / n8n Cloud
  
+<img width="1366" height="768" alt="Agent" src="https://github.com/user-attachments/assets/ece451e3-96cb-4557-b8e2-2d23dd298185" />
 
- 
+ <img width="1366" height="768" alt="Agent1" src="https://github.com/user-attachments/assets/167e7b5d-fd69-43d0-b44b-4db01a5557d0" />
+
 ---
 
 ## 📊 Sample Agent Output
