@@ -21,33 +21,7 @@ StrategistAI is an automated multi-agent workflow designed to transform a raw st
 
  <img width="1366" height="768" alt="Agent1" src="https://github.com/user-attachments/assets/167e7b5d-fd69-43d0-b44b-4db01a5557d0" />
 
-## 🏗️ Technical Architecture
-
-```mermaid
-graph TD
-    A[User Input: Idea, Industry, Target] --> B{n8n Workflow Trigger}
-    B --> C[Orchestrator Agent]
-    
-    subgraph "Agentic Research Layer"
-    C --> D[Market Intelligence Agent]
-    C --> E[Competitive Intelligence Agent]
-    D --> F[Perplexity AI: Real-time Market Data]
-    E --> G[OpenAI GPT-4o: Competitor Mapping]
-    end
-    
-    subgraph "Product Strategy Layer"
-    F --> H[TAM/SAM/SOM Calculator]
-    G --> I[Feature Prioritization Matrix]
-    H --> J[MVP Architect Agent]
-    I --> J
-    end
-    
-    J --> K[Roadmap Generator Agent]
-    K --> L[Final Output: Comprehensive Strategy Report]
-    
-    style B fill:#f9f,stroke:#333,stroke-width:2px
-    style C fill:#bbf,stroke:#333,stroke-width:2px
-    style L fill:#bfb,stroke:#333,stroke-width:2px
+   
 ---
 
 ## 📊 Sample Agent Output
