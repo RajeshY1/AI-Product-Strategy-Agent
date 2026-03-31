@@ -16,7 +16,9 @@ StrategistAI is an automated multi-agent workflow designed to transform a raw st
 - **AI Brain:** OpenAI GPT-4o / Claude 3.5
 - **Research API:** Perplexity AI (for live web-searching)
 - **Deployment:** Self-hosted / n8n Cloud
+ 
 
+ 
 ---
 
 ## 📊 Sample Agent Output
@@ -28,7 +30,7 @@ StrategistAI is an automated multi-agent workflow designed to transform a raw st
 
 
 
-## 👨‍💼 About the Author
+## 👨💼 About the Author
 **Rajesh | AI Product Manager**
 *8+ Years in Technical Strategy & Human Capital.*
 Specializing in building AI-native products for the South Indian tech ecosystem.
