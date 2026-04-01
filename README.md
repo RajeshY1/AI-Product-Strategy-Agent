@@ -51,3 +51,8 @@ ________________________________________
 •	Phase 3: Real-time pricing model suggestions based on competitor scraping.
 •	Phase 4: WhatsApp-bot integration for mobile-first founders in Tier-2 Indian cities.
 
+<img width="1366" height="768" alt="Agent" src="https://github.com/user-attachments/assets/ab7d78df-22fd-445e-a074-e4d073d0c67b" />
+<img width="1366" height="768" alt="Agent1" src="https://github.com/user-attachments/assets/30cb5226-bc8c-4430-a3f8-b668461173a7" />
+
+
+
