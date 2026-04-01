@@ -1,4 +1,4 @@
-Product Requirement Document (PRD): AI Product Strategy Agent
+AI Product Strategy Agent
 Target Market: SaaS Startups & Enterprise Innovation Labs (South India Focus)
 ________________________________________
 1. Executive Summary & Problem Statement
